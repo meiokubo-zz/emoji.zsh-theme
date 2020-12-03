@@ -11,3 +11,8 @@ Copy emoji.zsh-theme into your ```~/.oh-my-zsh/themes/``` directory
 Then change current theme to emoji ```ZSH_THEME=emoji``` in your ```~/.zshrc```.
 
 Activate a new theme with  ```$ source ~/.zshrc```.
+
+## Syntax
+- ```➜ current_dir (git_branch) <emoji indicator>```
+- ✏️ Git prompt is dirty (uncommitted files)
+- ✅ Git prompt is clean (committed)
