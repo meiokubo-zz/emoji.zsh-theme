@@ -1,6 +1,6 @@
 # ✏️✅ emoji theme for oh my zsh
 
-emoji theme for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified *robbyrussell* and replaced git prompt symbol with emoji for better clarity
+[emoji theme](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified *robbyrussell* and replaced git prompt symbol with emoji for better clarity
 
 ![Alt text](emoji_theme_ohmyzsh.png "emoji oh my zsh theme preview")
 
