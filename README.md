@@ -18,4 +18,4 @@ Activate a new theme with  ```$ source ~/.zshrc```.
 - ✅ Git prompt is clean (committed)
 
 ## Issues
-- ✏️ emoji is breaking cursor potion to the right hover on the first charactor on Crostini terminal
+- ✏️ emoji is breaking cursor potion to the right hover on the first character on Crostini terminal
