@@ -1,6 +1,6 @@
 # ✏️✅ emoji theme for oh my zsh
 
-[emoji theme](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified *robbyrussell* and replaced git prompt symbol with emoji for better clarity
+[emoji theme](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified *robbyrussell* and replaced git prompt symbol with emoji for better clarity. Works fine on Macs.
 
 ![Alt text](emoji_theme_ohmyzsh.png "emoji oh my zsh theme preview")
 
@@ -16,3 +16,6 @@ Activate a new theme with  ```$ source ~/.zshrc```.
 - ```➜ current_dir (git_branch) <emoji indicator>```
 - ✏️ Git prompt is dirty (uncommitted files)
 - ✅ Git prompt is clean (committed)
+
+## Issues
+- ✏️ emoji is breaking cursor potion to the right hover on the first charactor on Crostini terminal
