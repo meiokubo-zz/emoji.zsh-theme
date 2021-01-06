@@ -11,6 +11,7 @@ emoji theme for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified _ro
 - macOS
 - [oh my zsh](https://ohmyz.sh/)
 
+
 > ✏️emojis might corrupts on Linux terminals. If so please replace ✏️ emoji with _robbyrussell_'s default dingbat "✗" .
 
 ## Installation
@@ -26,6 +27,9 @@ Activate a new theme with `$ source ~/.zshrc`.
 - `➜ current_dir (git_branch) <emoji indicator>`
 - ✏️ Git prompt is dirty (uncommitted files)
 - ✅ Git prompt is clean (committed)
+
+## Known Issues
+- ✏️ emoji is breaking cursor potion to the right hover on the first character on Crostini terminal
 
 ## Suggestions
 
