@@ -33,6 +33,6 @@ Activate a new theme with `$ source ~/.zshrc`.
 
 ## Suggestions
 
-Please reach me out at [masa@hackwith.org](masa@hackwith.org)
+Please reach me out at [mei@hackwith.org](mei@hackwith.org)
 
 Thanks!
