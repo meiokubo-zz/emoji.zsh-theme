@@ -12,7 +12,7 @@ emoji theme for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/). simplified _ro
 - [oh my zsh](https://ohmyz.sh/)
 
 
-> ✏️emojis might corrupts on Linux terminals. If so please replace ✏️ emoji with _robbyrussell_'s default dingbat "✗" .
+> ✏️ emojis might corrupts on Linux terminals. If so please replace ✏️ emoji with _robbyrussell_'s default dingbat "✗" .
 
 ## Installation
 
@@ -21,6 +21,8 @@ Copy emoji.zsh-theme into your `~/.oh-my-zsh/themes/` directory
 Then change current theme to emoji `ZSH_THEME=emoji` in your `~/.zshrc`.
 
 Activate a new theme with `$ source ~/.zshrc`.
+
+🎨 Optionally, if you want the same color scheme as the one used in the screenshot, install [Atom One Dark Theme for Terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) made by the [Atom](http://atom.io/) team. Also, it's available in One Light.
 
 ## Syntax
 
